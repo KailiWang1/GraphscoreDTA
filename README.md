@@ -50,4 +50,4 @@ python train.py
 
 ### contact
 Kaili Wang: kailiwang@csu.edu.cn
-You can also download the codes from https://github.com/KailiWang1/GraphscoreDTA
+You can also download the codes from https://github.com/CSUBioGroup/GraphscoreDTA
