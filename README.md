@@ -24,7 +24,7 @@ The benchmark dataset can be found in `./test_set/`. The GraphscoreDTA model is 
 In order to get GraphscoreDTA, you need to clone this repo:
 
 ```bash
-git clone https://github.com/CSUBioGroup/GraphscoreDTA
+git clone https://github.com/KailiWang1/GraphscoreDTA
 cd GraphscoreDTA
 ```
 The easiest way to install the required packages is to create environment with GPU-enabled version:
