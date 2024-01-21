@@ -49,5 +49,5 @@ python train.py
 ```
 
 ### contact
-Kaili Wang: kailiwang@csu.edu.cn
+Kaili Wang: kailiwang@dhu.edu.cn
 You can also download the codes from https://github.com/CSUBioGroup/GraphscoreDTA
